@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ...<br>Improving my CV<br>🌱 I’m currently learning ...<br>Machine Learning<br>Android Developement<br>🤔 I’m looking for help with ...<br>Android Developement<br>📫 How to reach me: ...<br>Rastin.maleki.m@gmail.com
+🔭 I’m currently working on ...<br>Improving my CV<br>🌱 I’m currently learning ...<br>Predictive Condition Monitoring<br>📫 How to reach me: ...<br>Rastin.maleki.m@gmail.com
 
 
 ## 🌐 Socials:
